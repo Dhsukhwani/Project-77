@@ -1,0 +1,12 @@
+h1 {
+    font-size: large;
+    color: white;
+}
+p {
+    font-size: small;
+    font-weight: 150;
+    color: white;
+}
+html {
+    background-color: black;
+}
